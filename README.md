@@ -2,4 +2,4 @@
 
 EiE Project
 
-Bitmaps for a minigame programmed on an ARM processor.
+Bitmaps for a minigame running on an ARM processor, programmed in Embedded C using IAR Embedded Workbench.
