@@ -1,4 +1,4 @@
-# EiE-Project-Dino-Run
+# Dino-Run
 
 EiE Project
 
